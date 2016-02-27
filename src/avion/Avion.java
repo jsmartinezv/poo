@@ -18,8 +18,8 @@ public class Avion {
      */
     public static void main(String[] args) {
         java.util.Scanner lectura = new java.util.Scanner(System.in);
-        int filaEjec=2;
-        int filaEcon=7;
+        int filaEjec=2;///
+        int filaEcon=7;//
         int columnaEjec=4;
         int columnaEcon=6;
         int asiento=0;

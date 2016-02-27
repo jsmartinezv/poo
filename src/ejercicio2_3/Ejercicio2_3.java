@@ -51,7 +51,7 @@ public class Ejercicio2_3 {
             System.out.print("|" + "\t" + Parqueadero[i] + "\t");
             if (i == 28 || i == 57) {
                 System.out.println("|");
-            }
+            }//
         }
         System.out.println("|");
         System.out.println();
